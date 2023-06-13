@@ -1,0 +1,28 @@
+body {
+    padding: 20px;
+}
+
+ol, ul {
+    padding-left: 40px;
+}
+
+ol {
+    list-style: decimal;
+}
+
+ul {
+    list-style: upper-alpha;
+}
+
+table {
+    border-collapse: collapse;
+    background-color: blueviolet;
+}
+
+table, tr, td, th {
+    border: 1px solid black;
+}
+
+table tr td, table tr th {
+   padding: 5px; }
+   
